@@ -2,11 +2,9 @@
 
 Projeto desenvolvido como minha interpretação do desafio de empréstimos do [Backend-br](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md).
 
-## Desafio 
+### Loans Challenge
 
 Desafio será implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
-
-### Exemplo
 
 As modalidades de empréstimo que serão analisadas são:
 
