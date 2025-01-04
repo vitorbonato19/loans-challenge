@@ -2,11 +2,11 @@
 
 Projeto desenvolvido como minha interpretação do desafio de empréstimos do [Backend-br](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md).
 
-# Desafio 
+## Desafio 
 
 Desafio será implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
 
-## Exemplo
+### Exemplo
 
 As modalidades de empréstimo que serão analisadas são:
 
@@ -61,7 +61,7 @@ HTTP/1.1 200 Ok
 }
 ```
 
-## Requisitos
+### Requisitos
 
 - Conceder o empréstimo pessoal se o salário do cliente for igual ou inferior a R$ 3000.
 - Conceder o empréstimo pessoal se o salário do cliente estiver entre R$ 3000 e R$ 5000, se o cliente tiver menos de 30
