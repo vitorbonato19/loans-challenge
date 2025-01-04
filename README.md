@@ -2,11 +2,9 @@
 
 Projeto desenvolvido como minha interpretação do desafio de empréstimos do [Backend-br](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md).
 
-## Desafio
+# Desafio 
 
-# Empréstimos
-
-Seu desafio será implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
+Desafio será implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
 
 ## Exemplo
 
@@ -22,7 +20,7 @@ As modalidades de empréstimo disponíveis para uma pessoa são baseadas em algu
 - **Salário**
 - **Localização**
 
-Seu serviço recebe uma chamada para determinar quais modalidades de empréstimo uma pessoa tem acesso.
+O serviço recebe uma chamada para determinar quais modalidades de empréstimo uma pessoa tem acesso.
 
 **[POST]** `{{host}}/customer-loans`
 
@@ -36,7 +34,7 @@ Seu serviço recebe uma chamada para determinar quais modalidades de empréstimo
 }
 ```
 
-Seu serviço deve retornar uma resposta contendo o nome do cliente e uma lista de empréstimos aos quais ele tem acesso,
+O serviço retorna uma resposta contendo o nome do cliente e uma lista de empréstimos aos quais ele tem acesso,
 com os respectivos tipos e taxas de juros.
 
 ```
